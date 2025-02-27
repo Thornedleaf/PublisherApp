@@ -1,0 +1,6 @@
+@PubAPI_HostAddress = http://localhost:5108
+
+GET {{PubAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
